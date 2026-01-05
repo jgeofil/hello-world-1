@@ -5,5 +5,5 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10, <3.14"
 dependencies = [
-    "functions-framework==3.5.0"
+    "functions-framework==3.8.2"
 ]

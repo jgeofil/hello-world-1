@@ -7,7 +7,7 @@
       "functionName": "function-hello-world",
       "gen": "GEN_2",
       "entryPoint": "hello_get",
-      "revision": "",
+      "revision": "1",
       "testInput": "",
       "region": "us-central1",
       "runtime": "python313"
